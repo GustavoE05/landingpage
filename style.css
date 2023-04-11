@@ -1,0 +1,31 @@
+.inicio{
+    background-color: rgba(204, 255, 0, 0.59);;
+}
+#ebac-logo{
+    width: 223.64px;
+    height: 80px;
+}
+.info{
+    background-color: #2B003F;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.cont{
+    background: #500175;
+    width: 466px;
+    height: 597px;
+    border-radius: 20px;
+}
+.col-lg-12 p {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  }
+.btn-custom{
+    height: 48px;
+    width: 320px;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 5px;
+}
