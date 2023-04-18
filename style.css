@@ -2,34 +2,35 @@
     background-color: rgba(204, 255, 0, 0.59);;
 }
 #ebac-logo{
-    width: 223.64px;
-    height: 80px;
+    width: 17.059vw;
+    height: 6.102vw;
 }
 .info{
     background-color: #2B003F;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 24px;
+    font-size: 1.831vw;
 }
 .cont{
     background: #500175;
-    width: 466px;
-    height: 597px;
-    border-radius: 20px;
+    width: 35.545vw;
+    height: 41.342vw;
+    border-radius:20px;
 }
 .col-lg-12 p {
-    font-size: 24px;
+    font-size: 1.831vw;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
   }
 .btn-custom{
-    height: 48px;
-    width: 320px;
+    height: 3.661vw;
+    width: 24.409vw;
     background-color: transparent;
     border: 1px solid black;
     border-radius: 5px;
 }
 .btnconsulta{
-    width: 351px;
-    height: 60px;
+    width: 26.773vw;
+    height: 4.577vw;
+    font-size: 1.22vw ;
 }
