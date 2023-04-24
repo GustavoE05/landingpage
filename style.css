@@ -1,3 +1,6 @@
+*{
+    padding: 0%;
+}
 .inicio{
     background-color: rgba(204, 255, 0, 0.59);;
 }
@@ -33,4 +36,7 @@
     width: 26.773vw;
     height: 4.577vw;
     font-size: 1.22vw ;
+}
+.col-lg-6 p{
+    font-size: 1.22vw;
 }
